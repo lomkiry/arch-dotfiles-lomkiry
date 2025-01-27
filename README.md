@@ -24,4 +24,5 @@ After the script finishes restart the system or use the command
 ```bash
 reboot or startx
 ```
+### If you need to know what binds are now, look in the dwm directory in the files keybinds_eu and keybinds_ru. 
 Thanks for downloading!
