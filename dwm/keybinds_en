@@ -1,0 +1,34 @@
+Alt+Shift+Enter — Open the terminal (alacritty)  
+Alt+P — Open the application launcher (dmenu)  
+Alt+B — Toggle the status bar visibility  
+Alt+J — Move focus to the next window  
+Alt+K — Move focus to the previous window  
+Alt+I — Increase the number of windows in the master area  
+Alt+D — Decrease the number of windows in the master area  
+Alt+H — Decrease the size of the master window area  
+Alt+L — Increase the size of the master window area  
+Alt+Super+H — Increase gaps between windows  
+Alt+Super+L — Decrease gaps between windows  
+Alt+Super+Shift+H — Increase gaps between stacked windows  
+Alt+Super+Shift+L — Decrease gaps between stacked windows  
+Alt+Super+Control+H — Increase inner gaps  
+Alt+Super+Control+L — Decrease inner gaps  
+Alt+T — Switch to the tile layout  
+Alt+F — Switch to the floating layout  
+Alt+M — Switch to the monocle layout  
+Alt+Space — Switch between layouts  
+Alt+Shift+Space — Toggle floating window  
+Alt+0 — View all tags  
+Alt+Shift+0 — Tag all windows  
+Alt+, — Focus on the previous monitor  
+Alt+. — Focus on the next monitor  
+Alt+Shift+, — Move the window to the previous monitor  
+Alt+Shift+. — Move the window to the next monitor  
+Alt+Shift+Q — Quit the window manager  
+Print Screen — Take a screenshot using Flameshot  
+F4 — Toggle mute  
+F5 — Decrease volume by 5%  
+F6 — Increase volume by 5%  
+F1 — Decrease brightness by 5%  
+F2 — Increase brightness by 5%  
+
