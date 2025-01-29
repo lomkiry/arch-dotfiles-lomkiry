@@ -119,8 +119,6 @@ export PULSE_SERVER=unix:/run/user/$(id -u)/pulse/native
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias wgup='sudo wg-quick up wg0 > /dev/null'
-alias wgdown='sudo wg-quick down wg0 > /dev/null'
 alias n='nvim'
 alias shutnow='shutdown -h now'
 

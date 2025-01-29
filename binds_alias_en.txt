@@ -1,3 +1,4 @@
+[Keybinds]
 Alt+Shift+Enter — Open the terminal (alacritty)  
 Alt+P — Open the application launcher (dmenu)  
 Alt+B — Toggle the status bar visibility  
@@ -32,3 +33,6 @@ F6 — Increase volume by 5%
 F1 — Decrease brightness by 5%  
 F2 — Increase brightness by 5%  
 
+[Aliases]
+n - Open neovim
+shutnow - Shutdown now
