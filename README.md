@@ -1,4 +1,4 @@
-# Dotfiles by Lomkiry
+# Dotfiles by lomkiry
 
 ## Getting Started
 
